@@ -53,7 +53,7 @@ string fname,lname;
 long accountNumber;
 float balance;
 float amount;
-cout<<"       *****BANKING SYSTEM SOFTWARE :POWERED BY TEXCODE SOLUTION JM ROAD PUNE-411005*****"<<endl;
+
 do
 {
 cout<<"\n\t\tDear Customer Please Select Your 0ne 0ption Below ::";
